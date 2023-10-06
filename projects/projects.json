@@ -1,5 +1,4 @@
 [
-  
   {
     "name": "Electon",
     "desc": "Electone.com, your ultimate e-commerce website for purchasing top-quality electronic gadgets at affordable prices.",
@@ -30,6 +29,17 @@
       "code": "https://github.com/Mzsalmani02/bluefly_clone"
     }
   },
+
+  {
+    "name": "Foodrocket",
+    "desc": "It's Responsive Food and Restaurant Website using Bootstrap 5.",
+    "image": "foodrocket-home",
+    "category": "basicweb",
+    "links": {
+      "view": "https://foodrocket-web.netlify.app/",
+      "code": "https://github.com/abhi21121211/FoodRocket"
+    }
+  },
   {
     "name": "Portfolio 1",
     "desc": "I proudly present my skills, accomplishments, and creative journey in the field of development.",
@@ -50,15 +60,14 @@
       "code": "https://github.com/abhi21121211/Portfolio-2"
     }
   },
-
   {
-    "name": "Foodrocket",
-    "desc": "It's Responsive Food and Restaurant Website using Bootstrap 5.",
-    "image": "foodrocket-home",
+    "name": "Portfolio 3",
+    "desc": "I proudly present my skills, accomplishments, and creative journey in the field of development.",
+    "image": "portfolio-3-home",
     "category": "basicweb",
     "links": {
-      "view": "https://foodrocket-web.netlify.app/",
-      "code": "https://github.com/abhi21121211/FoodRocket"
+      "view": "https://abhishek-dukare-portfolio-3.netlify.app/",
+      "code": "https://github.com/abhi21121211/portfolio-3"
     }
   }
 ]
