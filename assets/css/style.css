@@ -19,9 +19,7 @@ html {
 body {
   background: #f7f7f7;
   font-family: "Poppins", sans-serif;
-/* desable seelection */
-   
-
+  user-select: none;
 }
 
 *::selection {
@@ -94,7 +92,15 @@ header .logo {
   font-weight: 800;
   text-decoration: none;
   color: #0e2431;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
 }
+header .logo  img {
+width: 25px;
+}
+
 header .logo i {
   font-size: 2.2rem;
 }
@@ -303,7 +309,7 @@ header .navbar ul li a:hover {
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
-.social-icons a:active,
+.social-icons a.active,
 .social-icons a:focus,
 .social-icons a:hover {
   color: #fff;
@@ -483,12 +489,15 @@ header .navbar ul li a:hover {
   margin-top: 2rem;
 }
 .skills .container .row {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  display: flex;
+  flex-direction: repeat(6, 1fr);
   flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
   gap: 1.8rem;
 }
 .skills .container .bar {
+  width: 100px;
   margin-bottom: 15px;
   padding: 10px;
   border-radius: 1rem;
@@ -517,12 +526,13 @@ header .navbar ul li a:hover {
   margin-left: 0.5rem;
 }
 /* skills media queries starts*/
-@media screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
   .skills .container {
     padding: 0;
     margin: 0;
   }
   .skills .container .row {
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
     margin: 1rem;
     padding: 2rem 0.2rem 2rem 0.2rem;
@@ -532,7 +542,28 @@ header .navbar ul li a:hover {
     margin-top: 5px;
     width: 100%;
   }
+  .skills .container .bar {
+    width: auto
+    
+  }
 }
+
+/* @media only screen and ( max-width: 800px) {
+  
+  .skills .container .row {
+    grid-template-columns: repeat(4, 1fr);
+    
+  }
+ 
+}
+@media only screen and (max-width: 1000px) {
+  
+  .skills .container .row {
+    grid-template-columns: repeat(5, 1fr);
+    
+  }
+ 
+} */
 /* skills media queries ends*/
 /* skills section ends */
 
@@ -1238,3 +1269,7 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
+
+
+/* contact selection on */
