@@ -33,17 +33,17 @@ I would love to connect with you and discuss collaboration opportunities or answ
 - LinkedIn: (https://www.linkedin.com/in/abhishek-dukare-937156257)
 - Portfolio Website: (https://abhishek-dukare-portfolio-3.netlify.app)
 
-<img src="https://github.com/abhi21121211/portfolio-3/blob/main/portfolio-3-about.png" />
+<img src="assets/images/portfolio-screenshot/portfolio-3-home.png" />
 
-<img src="https://github.com/abhi21121211/portfolio-3/blob/main/portfolio-3-about.png" />
+<img src="assets/images/portfolio-screenshot/portfolio-3-about.png" />
 
-<img src="https://github.com/abhi21121211/portfolio-3/blob/main/portfolio-3-skills.png" />
+<img src="assets/images/portfolio-screenshot/portfolio-3-skills.png" />
 
-<img src="https://github.com/abhi21121211/portfolio-3/blob/main/portfolio-3-project.png" />
+<img src="assets/images/portfolio-screenshot/portfolio-3-project.png" />
 
-<img src="https://github.com/abhi21121211/portfolio-3/blob/main/portfolio-3-hithub.png" />
+<img src="assets/images/portfolio-screenshot/portfolio-3-github.png" />
 
-<img src="https://github.com/abhi21121211/portfolio-3/blob/main/portfolio-3-contact.png" />
+<img src="assets/images/portfolio-screenshot/portfolio-3-contact.png" />
 
 
 Thank you for taking the time to explore my portfolio. I look forward to the possibility of working together and contributing to exciting projects.
