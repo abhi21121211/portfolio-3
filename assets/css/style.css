@@ -19,6 +19,9 @@ html {
 body {
   background: #f7f7f7;
   font-family: "Poppins", sans-serif;
+/* desable seelection */
+   
+
 }
 
 *::selection {
@@ -660,7 +663,7 @@ header .navbar ul li a:hover {
   margin: 2rem;/
 }
 .work .box-container .box {
-  flex: 1 1 40rem;
+  flex: 1 1 45rem;
   border-radius: 0.5rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;

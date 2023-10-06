@@ -274,3 +274,10 @@ resume1.addEventListener("click", function () {
     window.location.href = downloadUrl;
 
 })
+
+// PHone contact
+var contactPhoneIcon = document.getElementById("contact-phone");
+contactPhoneIcon.addEventListener("click", function () {
+    // Replace "1234567890" with the desired phone number
+    window.location.href = "tel:7020162627";
+})
