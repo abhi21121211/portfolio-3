@@ -1,7 +1,7 @@
 # Portfolio
 
 Welcome to my portfolio! Here, I proudly present my skills, accomplishments, and creative journey in the field of development. This collection is a reflection of my unwavering passion for the craft and my continuous pursuit of excellence.
-
+<img src="assets/images/portfolio-3-logo-2.png" />
 ## Introduction
 
 Greetings! I am thrilled to share my development journey with you through this portfolio. I have dedicated myself to honing my skills, embracing challenges, and delivering innovative solutions. This portfolio serves as a testament to my commitment to excellence and my passion for continuous learning.
